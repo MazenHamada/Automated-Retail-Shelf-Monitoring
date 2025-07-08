@@ -1,5 +1,4 @@
-# Automated Retail Shelf Monitoring (Notebook Version)
-
+# Automated Retail Shelf Monitoring Analysis
 This repository contains a single Google Colab Notebook that demonstrates a complete workflow for analyzing retail shelf images. The project uses data stored in Google Drive for easy and reliable access.
 
 ---
