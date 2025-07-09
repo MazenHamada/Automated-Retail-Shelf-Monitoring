@@ -10,7 +10,7 @@ This project is designed to be run in Google Colab. Follow these steps for the b
 ### Step 1: Get the Dataset
 
 This project uses the **SKU-110K** dataset. You must download the annotation files to your computer before you begin.
-* **Download Link:** [SKU-110K Official GitHub Repository](https://github.com/eg4000/SKU-110K)
+* **Download Link:** [SKU-110K Official GitHub Repository]([https://github.com/eg4000/SKU-110K](https://github.com/eg4000/SKU110K_CVPR19))
 
 ### Step 2: Set Up Your Google Drive
 
