@@ -45,6 +45,11 @@ This project uses the **SKU-110K** dataset. You must download the annotation fil
 
 ---
 
+## 🔗 Colab Notebook Link
+[Automated_Retail_Shelf_Monitoring.ipynb](https://colab.research.google.com/drive/1QSD-9TiykV2T6ulWVNaLgSMx254KSAiF?usp=sharing)
+
+---
+
 ## ⚙️ Key Technologies
 
 - Python
